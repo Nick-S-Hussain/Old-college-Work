@@ -1,0 +1,4 @@
+﻿  Lab1-2.cpp
+D:\Fall2020 Classes\CSNP\Lab1-2\Lab1-2\Lab1-2.cpp(26,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Fall2020 Classes\CSNP\Lab1-2\Lab1-2\Lab1-2.cpp(27,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Lab1-2.vcxproj -> D:\Fall2020 Classes\CSNP\Lab1-2\Debug\Lab1-2.exe
