@@ -1,0 +1,5 @@
+﻿  Lab3-1.cpp
+D:\Fall2020 Classes\CSNP\Lab3-1\Lab3-1\Lab3-1.cpp(24,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Fall2020 Classes\CSNP\Lab3-1\Lab3-1\Lab3-1.cpp(24,55): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Fall2020 Classes\CSNP\Lab3-1\Lab3-1\Lab3-1.cpp(24,69): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Lab3-1.vcxproj -> D:\Fall2020 Classes\CSNP\Lab3-1\Debug\Lab3-1.exe

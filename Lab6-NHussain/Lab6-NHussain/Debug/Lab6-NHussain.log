@@ -1,0 +1,3 @@
+﻿  Lab6-NHussain.cpp
+Lab6-NHussain.obj : error LNK2019: unresolved external symbol "public: void __thiscall mainMenu::menuDisplay(void)" (?menuDisplay@mainMenu@@QAEXXZ) referenced in function _main
+D:\Fall2020 Classes\CSNP\Lab6-NHussain\Debug\Lab6-NHussain.exe : fatal error LNK1120: 1 unresolved externals
