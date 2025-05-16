@@ -1,0 +1,20 @@
+{
+  "name": "sample",
+  "version": "0.0.1",
+  "description": "\"Our first attempt at working with npm\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Rowan",
+    "APW",
+    "Js",
+    "sample"
+  ],
+  "author": "Nicholas Hussain",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.4.17"
+  }
+}
