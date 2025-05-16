@@ -1,0 +1,17 @@
+#include <stdio.h>
+#include <iostream>
+using namespace std
+
+void make_it_42(int* input_ptr){
+    *input_ptr = 42;
+}
+int main()
+{
+    //printf("Hello World");
+    int *some_ptr;
+    some_ptr = new int;
+    make_it_42(some_ptr);
+    cout<< some_ptr<<endl;
+    cout<< *some_ptr<<endl;
+    return 0;
+}
