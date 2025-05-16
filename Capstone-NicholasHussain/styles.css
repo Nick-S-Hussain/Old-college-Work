@@ -1,0 +1,52 @@
+body {
+
+
+    background-image: url("https://t4.ftcdn.net/jpg/03/90/66/17/360_F_390661775_BY3omV6LTS2064GbghxN9MBxgp4oV6>
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+ }
+ 
+ h1 {
+   color: gray;font-weight: bold;
+ }
+ h3 {
+   color: gray;font-weight: bold;
+ }
+ 
+ td {
+   text-align: center;
+   font-size: 23px;
+   font-family: "Cooperplate", Fantasy;
+   padding: 20px;
+         color: white;
+ }
+ th {
+  font-family: "Copperplate", Fantasy;
+   font-size: 28px;
+   padding: 45px;
+         color:white;
+ }
+ 
+ 
+  a:link {
+       text-decoration: none;
+ }
+ 
+ a:visited {
+       text-decoration: none;
+ }
+ 
+ a:hover {
+       text-decoration: none;
+ }
+ 
+ a:active {
+       text-decoration: none;
+ }
+ 
+ 
+ 
+ 
+ 
